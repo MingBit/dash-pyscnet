@@ -1,0 +1,9 @@
+dash
+gunicorn>=19.9.0
+numpy>=1.16.2
+pandas>=0.24.2
+pyscnet~=0.0.3
+plotly
+matplotlib
+dash_bootstrap_components
+dash_cytoscape
