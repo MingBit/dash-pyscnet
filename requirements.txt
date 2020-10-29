@@ -1,6 +1,7 @@
 dash
 gunicorn>=19.9.0
-numpy>=1.16.2
+numpy~=1.17.3
+setuptools~=46.4.0
 pandas>=0.24.2
 pyscnet~=0.0.3
 plotly
