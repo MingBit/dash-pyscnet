@@ -1,7 +1,6 @@
 dash
 dash_uploader
 dash_table
-textwrap
 gunicorn>=19.9.0
 numpy~=1.17.3
 setuptools~=46.4.0
